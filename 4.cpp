@@ -5,8 +5,6 @@
 using namespace std;
 using namespace std::chrono;
 
-// link for graph - https://www.desmos.com/calculator/svdublwwzg
-
 const int size = 10;
 void char_generator(char a[], int n)
 {
