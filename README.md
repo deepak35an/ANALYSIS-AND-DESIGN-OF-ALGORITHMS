@@ -146,8 +146,7 @@ TIME COMPLEXITY:
 Recursive Approach: The time complexity is O(n) due to the divide-and-conquer strategy, where 'n' is the size of the array.
 Iterative Approach: The time complexity is also O(n) as it traverses the array once.
 
-
-## 13. PRACTICAL 13 : KNAPSACK PROBLEM 
+PRACTICAL 13 : KNAPSACK PROBLEM 
 
 ALGORITHM:
 
